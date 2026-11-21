@@ -1,0 +1,11 @@
+producto,precio,cantidad,ciudad,total,sucursal,gerente
+Laptop,15000,2,CDMX,30000,Centro,Ana López
+Laptop,15000,2,CDMX,30000,Polanco,Carlos Ruiz
+Mouse,300,10,Guadalajara,3000,Centro,María Fernández
+Mouse,300,10,Guadalajara,3000,Zapopan,Luis García
+Teclado,800,5,Monterrey,4000,Centro,Patricia Díaz
+Teclado,800,5,Monterrey,4000,San Pedro,Roberto Sánchez
+Monitor,4500,3,CDMX,13500,Centro,Ana López
+Monitor,4500,3,CDMX,13500,Polanco,Carlos Ruiz
+Audifonos,1200,8,Guadalajara,9600,Centro,María Fernández
+Audifonos,1200,8,Guadalajara,9600,Zapopan,Luis García
